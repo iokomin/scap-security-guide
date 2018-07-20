@@ -23,3 +23,10 @@ selections:
     - file_user_owner_grub2_cfg
     - file_group_owner_grub2_cfg
     - package_libreswan_installed
+    - audit_rules_time_adjtimex
+#    - audit_rules_time_settimeofday
+#    - audit_rules_time_stime
+#    - audit_rules_time_clock_settime
+#    - audit_rules_time_watch_localtime
+#    - audit_rules_usergroup_modification
+#    - audit_rules_networkconfig_modification
